@@ -3,7 +3,7 @@ axios.defaults.withCredentials=true;
 
 
 //测试环境
-const host = "http://10.10.12.92:8000/"
+const host = "http://127.0.0.1:8081/"
 
 export const fileUrl = host
 
